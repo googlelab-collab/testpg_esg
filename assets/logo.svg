@@ -1,0 +1,15 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="30" cy="30" r="25" fill="#10B981" opacity="0.1"/>
+  
+  <!-- Main leaf icon -->
+  <path d="M20 35C20 28.925 24.925 24 31 24C37.075 24 42 28.925 42 35C42 41.075 37.075 46 31 46C24.925 46 20 41.075 20 35Z" fill="#10B981"/>
+  <path d="M31 24C31 24 35 20 42 20C46 20 50 24 50 30C50 36 46 40 42 40C35 40 31 36 31 24Z" fill="#059669"/>
+  
+  <!-- Growth lines -->
+  <path d="M15 40L25 30M45 20L35 30" stroke="#10B981" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Text -->
+  <text x="65" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#1F2937">ESGuite</text>
+  <text x="65" y="42" font-family="Arial, sans-serif" font-size="10" fill="#6B7280">Environmental • Social • Governance</text>
+</svg>
